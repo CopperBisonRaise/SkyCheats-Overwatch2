@@ -14,4 +14,4 @@ SkyCheats OW2. Third-party software targeting Overwatch 2.
 
 
 TAGS
-skycheats, skycheats-ow2, overwatch-2, ow2, third-party-software      
+skycheats, skycheats-ow2, overwatch-2, ow2, third-party-software       
